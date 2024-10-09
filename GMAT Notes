@@ -81,3 +81,83 @@ Verbal Reasoning
 			- Analyze and evaluate a passage's organization and logiv.
 			- How a passage is constructed or what strategies authors' use to try to persuade readers toa ccept their assertions
 			- Assess the strengths and weaknesses of thier arguments
+
+	Critical Reasoning
+		Analysis - test skill in understanding a piece of logical reasoning as a whole and identifying the relationships among its constituent parts
+		Construction - forming cogent arguments, ex: determine additional information that can be inferred from given info, or what additional info would be needed for an argument to work
+		Critique - challenging the cogency of arguments, identifying strengths and weaknesses, determining how they could be improved
+		Plan - designed to test skill in constructing and critiquing arguments about proposed courses of action.	
+
+	Types of Critical Reasoning Questions
+		Argument Construction
+			- Basic argument structure
+			- Properly drawn conclusions
+			- Underlying assumptions
+			- Well-supported explanatory hypotheses
+			- Parallels between structurally similar arguments
+		
+		Argument Evaluation
+			- Factors that would stregnthen or weaken the argument
+			- Reasoning errors committed in making the argument
+			- Aspects of the method by which the argument proceeds
+		
+		Questions about formulating and evaluating a plan of action
+			- The relative appropriateness, effectiveness, or efficiency of different plans of action
+			- Factors that would strengthen or weaken the prospects of succuess for a propsed plan of action
+			- Assumptions underlying a proposed plan of action
+	
+	Strategies
+		Be certain I understand the statement or set of statements on which a question is based
+			Pay attention to :
+			- What is put forward as factual information
+			- What is not said but necessarily follows from what is said
+			- What is claimed to follow from facts that have been put forward
+			- How well those claims are substantiated
+		If a question is based on an argument, identify which part of the argument is its conclusion
+		Determine exactly what the question is asking
+		Read all the answer choices carefully
+		
+Data Insights
+	Data Types
+		Text passages
+		Tables
+		Graphics
+		Some combination
+		
+	Strategies
+		Don't expect to be completely familiar with the material presented in Multi-Source Reasoning sets
+		Analyze each source of info carefully, as the questions require detailed understanding of the information presented
+		Read the quesitons carefully, making sure you understand whta they ask
+		Examine the table and accompanying text to determine the type of information provided
+		Read the question carefully
+		Read each phrase, statement, numerical value, or algebraic expression carefully to determine the data analysis required
+		Judge each phrase, statemnet, numerical value, or algebraic expression carefully on the basis of the condition specified
+		
+	Data Sufficiency
+		Measure
+			- Analyze a quantitative problem
+			- Recognize which information is relevant
+			- Determine at what point there is enough information to solve the problem
+
+		Directions
+			Each problem consists of a question and two statements (1) and (2)
+			Using the data given int eh statements, plus basic knowdlege, decide whether you've been given enough data in the statements to answer the question asked
+				- (1) ALONE is sufficient, but statement (2) alone is not sufficient to answer the question
+				- (2) ALONE is sufficient, but statement (1) alone is not sufficient to answer the question
+				- BOTH statements (1) and (2) TOGETHER are sufficient to answer the question, but NEITHER statement ALONE is sufficient
+				- EACH statement ALONE is sufficient to answer the question
+				- Statements (1) and (2) TOGETHER are NOT sufficient to answer the question asked, and additional data specific to the problem are needed.
+			Node: If a Data Sufficiency problem asks for a specific value, the data in the statements are sufficient only when tehy allow you to deteremine one precise value ratehr than a range of values
+		
+		Strategies
+			Determine whether it's necessary to solve the problem
+				- The answers I will select ask only if I have enough information. In some cases you may need to work the problem through
+				- First consider if each statement separately gives enough information to solve the problem. disregard the other statement when evaluating
+				- If either, or both, of the statements gives enough to solve the porblem, then tahts your answer
+				- If neither statement ALONE is sufficient, consider the information in both statemnet (1) and statement (2) together.
+			Decide whether the problem allows only one value or a range of values
+			Avoid making unwarranted assumptions based on geometric figures
+				- Figures are not necessarily drawn to scale
+				- Ex: if a figure described as a rectangle looks as if it might be a square, don't assume it's a square just by looking at the figure
+			
+
