@@ -160,4 +160,40 @@ Data Insights
 				- Figures are not necessarily drawn to scale
 				- Ex: if a figure described as a rectangle looks as if it might be a square, don't assume it's a square just by looking at the figure
 			
+Full Quantitative Study
+	Linear Equations	
+		C. If two linear equations with the same two unknowns are equivalent, they have infinitely many solutions
+			ex: 3x-y=6 and 6x-2y=12 -> Infinitely Many solutions.
+
+		   If two linear equations with the same two unknowns aren't equivalent, they have at most one solution
+			ex: 3x-y=6 and 4x-3y=12 -> at most one solution
+
+		   If in solving them, you get
+			0=0 or 1=1 : Infinite many solutions
+			1/=0 : (Contradiction) No solution	
+			Ex: 3x + 4y = 17
+			    6x + 8y = 35
+			Ans: No solution
+			Why: The first line implies that 6x + 8y = 34 and that is just not the case here
+			     No values of x and y can satisfy both equations
+
+		   If neither a trivial equation nor a contradiction is reached, a unique solution can be found
+
+		D. Solving By Subtitution
+		   Ex: 3x + 2y = 11
+		        x - y = 2
+
+		       equation (2) converts ->  x = y + 2
+		       plug (2) into (1) -> 3(y + 2) + 2y = 11
+					    3y + 6 + 2y = 11
+					    5y = 5
+					    y = 1
+			with y = 1, I can plug y into x - y = 2 -> x - 1 = 2 -> x = 3
+		       
+		E. Solving By Subtraction
+		   Ex: 6x + 5y = 29 --> 18x + 15y = 87
+		       4x + 3y = -6 --> 20x - 15y =-30
+			              +_______________
+					38x +  0y = 57 -> x = 3/2	
+			With x, solve for y
 
