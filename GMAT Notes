@@ -306,5 +306,27 @@ Full Quantitative Study
 		
 		D. The set of a function's outputs is the function's range.
 		ex(1): h(x) = |x + 3| Range: Any number greater than or equal to 0
-		ex(2): a(x) = 9x - 5 for 0 <= x <= 10 Range: -5 <= y <= 85
+		ex(2): a(x) = 9x - 5 for 0 <= x <= 10 Range: -5 <= y <= 85	
+
+	Graphing
+		A. Coordinate Plane with X-axis (horizontal) and Y-axis (vertical). Origin O.
+		Four quadrants: 
+			|
+		    II  |  I
+			|
+		  ------+------
+			|
+		    III |  IV
+			|
+		
+		B. Linear equation for all points: y = mx + b
+		m = Slope
+		b = y-intercept
+		y-intercept = when x = 0
+		x-intercept = when y = 0
+	
+			    y2 - y1 
+		C. Slope = ---------
+			    x2 - x1
+		
 		

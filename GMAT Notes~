@@ -286,3 +286,25 @@ Full Quantitative Study
 			5x - 1 > -6
 			5x     > -5
 			x      > -1
+
+	Functions
+		A. An algebraic expression in one variable can define a function of that variable.
+		Written as a letter like f or g along the variable in the expression.
+		ex(1): x³ - 5x² + 2 can define a function written as f(x) = x³ - 5x² + 2
+			  2z + 7				     2z + 7
+		ex(2): ------------  and define a function g(z) = ------------ 
+			sqrt(z + 1)				   sqrt(z + 1) 
+
+		B. Once a function f(x) is defined, think of x as an input and f(x) as the output.
+		In any function, any one input gives at most one output.
+		But different inputs can give the same output
+		ex: If h(x) = |x + 3|, then h(-4) = 1 = h(2)
+
+		C. The set of all allowed inputs for a function is a function's domain.
+		For example (1), the domain is all real numbers
+		For example (2), the domain is all numbers greater than -1
+		
+		D. The set of a function's outputs is the function's range.
+		ex(1): h(x) = |x + 3| Range: Any number greater than or equal to 0
+		ex(2): a(x) = 9x - 5 for 0 <= x <= 10 Range: -5 <= y <= 85
+		
