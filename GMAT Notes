@@ -652,4 +652,45 @@ Full Quantitative Study
 				|-----------------------|-----------------------|
 				|	     0		|	    7    	|					    (-5 + 1.6)²(2) + (-4 + 1.6)² + ... + (0 + 1.6)²(7)
 				|-----------------------|-----------------------|		Standard deviation: sqrt ( ---------------------------------------------------- ) ~= 1.7
-				|	  Total		|	   20    	|								    20
+	Sets
+		A. In math a set is a collection of numbers or other things. the Things in the set are its elements. A list of a set's elements in a pair of braces stand for the set. The list's order doesn't matter.
+		ex: {-5, 0 ,1} is the same set as {0, 1, -5}. That is {-5, 0 ,1} = {0, 1, -5}
+	
+		B. The number of elements in a finite set S is written as |S|.
+		ex: S = {-5, 0, 1} is a set with |S| = 3
+
+		C. If all the elements in a set S are also in a set T, then S is a subset of T. This is written as S (_ T or T_)S  [ (_ and _) are meant to be sideways U with a line underneath ]
+		ex: {-5, 0, 1} is a subset of {-5, 0, 1, 4, 10}. That is, {-5, 0, 1} (_ {-5, 0, 1, 4, 10}
+
+		D. The untion of two sets A adn B is the set of all elements that are in each A or in B or both. The union is written as A U B
+		ex: {3, 4} U {4, 5, 6} = {3, 4, 5, 6}
+
+		E. The intersection of two sets A and B is the set of all elements that are each both A and B. The intersection is written as A n B
+		ex: {3, 4} n {4, 5, 6} = {4}
+
+		F. The two sets sharing no elements are disjoint or mutually exclusive
+		ex: {-5, 0, 1} and {4, 10} are disjoint
+
+		G. A Venn diagram shows how two or more sets are related. Suppose sets S and T aren't disjoint, and neither is a subset of the other. The Venn diagram below shos thier intersection S n T as a shaded area
+		ex: A ven diagram with the center intersection shaded and the individual sides not shaded.
+
+		H. The number of elements in the union of two finite sets S and T is the number of elements in S, plus the number of elements in T, minus the number of elements in the intersection of S and T.
+		That is, |S U T| = |S| + |T| - |S n T|. This is the general addition rule for two sets.
+		ex:
+			|{3,4} U {4,5,6}| = |{3,4}| + |{4,5,6}| - |{3,4} n {4,5,6}| = 
+			|{3,4}| + |{4,5,6}| - |{4}| = 2 + 3 - 1 = 4
+
+		If S and T are disjoint, then |S U T| = |S| + |T|, since |S n T| = 0
+		
+		I. You can often solve word problems involving sets by using Venn diagrams and the general addition rule.
+		ex: Each of 25 stuends is taking history, mathematics, or both. If 20 of them are taking history and 18 of them are taking mathmatics, how many of them are taking both history and mathematics.
+		sol: Separate the 25 students into three disjoint sets:
+			the students taking history only
+			the students taking mathematics only
+			those taking both history and mathematics
+		This gives us the Venn diagram below where n is the number f students taking both courses, 20 -n is the nume rtaking history only and 18-n is the number taking mathematics only.
+
+			     Venn Diagram
+		History ( 20 - n ( n ) 18 - n ) Mathematics
+		
+		Since there are 25 students total, (20 - n) + n + (18 - n) = 25, so n = 13. So, 13 students are taking both history and mathematics. Notice 20 + 18 - 13 = 25 is an example of the general addition rule for two sets.
