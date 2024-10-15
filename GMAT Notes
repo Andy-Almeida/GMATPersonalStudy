@@ -586,3 +586,70 @@ Full Quantitative Study
 			      n = 2 liters
 		So, 2 liters of the 15% salt solution must be added to the *% solution to make the 10% solution.
 		
+	Statistics
+		A. a common statistical measure is the average or (arithmetic) mean, a type of center for a set of numbers. The average or mean of n numbers is the sum of the n numbers divided by n.
+		ex: The average of the 5 numbers 6, 4, 7, 10, and 4 is (6 + 4 + 7 + 10 + 4) / 5 = 31/5 = 6.2.
+
+		B. The median is another type of center for a set of numbers. To find the median of n numbers, order the numbers from the least to greatest. If n is odd, the median is the middle number in the list. But if n is even, the median is the average of the two middle numbers. The median may be less than, equal to, or greater than the mean of the same numbers.
+		ex: To find the median of the 5 numbers 6, 4, 7, 10, and 4, order them from least to greatest: 4, 4, 6, 7, 10. the median is 6, the middle number in this list.
+		The median of the 6 numbers 4, 6, 6, 8, 9, 12 is (6 + 8)/2 = 7. But the mean of these 6 numbers is (4 + 6 + 6 + 8 + 9 + 12)/6 = 45/6 = 7.5
+
+		Often about half the numbers in a set are less than the median, and about half are greater than the median. but not always.
+		ex: For the 15 numbers 3, 5, 7, 7, 7, 7, 7, 7, 8, 9, 9, 9, 9, 10, and 10, th median is 7. Only 2/15 of the numbers are less than the median.
+
+		C. The mode of a list of numbers is the number that occurs the most often in the list
+		ex: The mode of the list of numbers 1, 3, 6, 4, 3, 5 is 3, since 3 is the only number that occurs more than once in the list
+	
+		A list of numbers may have more than one mode
+		ex: The list 1, 2, 3, 3, 3, 5, 7, 10, 10, 10, 20 has two modes, 3 and 10.
+
+		D. There are many ways to measure how spread out or dispersed numerical data are. The simplest measure of dispersion is the range, which is the greatest value in the data minus the lease value
+		ex: The range of the 5 numbers 11, 10, 5, 13, 21 is 21 - 5 = 16. Notice the range depends on only 2 of the numbers.
+
+		E. Another common measure of dispersion is the standard deviation. Generally, the farther the numbers spread away from the mean, the greater the standard deviation. To find the standard deviation of n numbers:
+			1. Find their arithmetic mean,
+			2. Find the differences between the mean and each of the n numbers,
+			3. Square each difference,
+			4. Find the average of the squared differences
+			5. Take the nonnegative square root of this average
+
+		Ex: Lets use the table below to find the standard deviation of the 5 numbers 0, 7, 8, 10, 10 which have the mean 7.
+		
+			x    |      x - 7      |          (x - 7)²	  |
+		-------------|-----------------|--------------------------|		The standard deviation is sqrt(68/5) =~ 3.7
+			0    |       -7        |             49           |
+		-------------|-----------------|--------------------------|		The standard deviation depends on every number in the set, but more farther from the mean. This is why stadnard deviation is smaller
+			7    |        0        |              0           |		for a set of data grouped closer around its mean.
+		-------------|-----------------|--------------------------|
+			8    |        1        |              1           |		As a second example, consider the numbers 6, 6, 6.5, 7.5, 9, which also have the mean 7. these numbers are grouped closer around the mean 7
+		-------------|-----------------|--------------------------|		than the numbers in the first example. That makes the standard deviation in this second example only about 1.1, far below the standard	
+	               10    |        3        |              9           |		deviation of 3.7 in the first example
+		-------------|-----------------|--------------------------|
+		       10    |        3        |              9           |
+		-------------|-----------------|--------------------------|
+		              Total	       |             68           |
+
+		F. How many times a value occurs in a data set is its frequency in the set. When different data values have different frequencies, a frequency distribution can help show how the values are distributed.
+		ex: Consider this data set of 20 numbers
+
+			|	-4	|	0	|	0	|	-3	|	-2	|	-1	|	-1	|	0	|	-1	|	-4	|
+			|---------------|---------------|---------------|---------------|---------------|---------------|---------------|---------------|---------------|---------------|
+			|	-1	|	-5	|	0	|	-2	|	0	|	-5	|	-2	|	0	|	0	|	-1	|
+
+		We can show its frequency distribution in a table listing each data value x and x's frequency f:
+		
+				|	Data Value x	|	Frequency f	|		This frequency distribution table makes computing statistical measures easier:
+				|-----------------------|-----------------------|		
+				|	    -5		|	    2    	|			 (-5)(2) + (-4)(2) + (-3)(1) + (-2)(3) + (-1)(5) + (0)(7)	
+				|-----------------------|-----------------------|		Mean: = ---------------------------------------------------------- ~= 1.7
+				|	    -4		|	    2    	|						   20
+				|-----------------------|-----------------------|
+				|	    -3		|	    1    	|		Median: -1 (the average of 10th and 11th numbers)
+				|-----------------------|-----------------------|		
+				|	    -2		|	    3    	|		Mode: 0 (the number that occurs most ofter)
+				|-----------------------|-----------------------|
+				|	    -1		|	    5    	|		Range: 0 - (-5) = 5
+				|-----------------------|-----------------------|
+				|	     0		|	    7    	|					    (-5 + 1.6)²(2) + (-4 + 1.6)² + ... + (0 + 1.6)²(7)
+				|-----------------------|-----------------------|		Standard deviation: sqrt ( ---------------------------------------------------- ) ~= 1.7
+				|	  Total		|	   20    	|								    20
