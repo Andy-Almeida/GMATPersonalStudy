@@ -585,4 +585,37 @@ Full Quantitative Study
 			     5n = 10
 			      n = 2 liters
 		So, 2 liters of the 15% salt solution must be added to the *% solution to make the 10% solution.
+
+	Counting Methods
+		A. To count sets of element without listing them, you can sometimes use this multiplication principle:
+		If an object will be chosen form a set of m objects, and another object will be chosen from a different set of n objects, then mn different choices are possible
+	
+		ex: Suppose a meal at a restaurant must include exactly 1 entree and 1 desert. 
+		The entree can be 1 of 5 options, and the dessert can be any 1 of 3 options. 
+		Then 5 * 3 =15 different meals are available.
+
+		B. The number of possible choices of 1 object apiece out of any number of sets is the product of the numbers of objects in those sets.
+		ex: Each time a coin is flipped, the 2 possible results are heads and tails. In a set of 8 consecutive coin flips, think of each flip as a set of those 2 possible results. The 8 flips gives us 8 of these 2 element sets. So, the set of 8 flips has a total of 2^8 possible results
+	
+		C. A concept often used with the multiplication principle is the factorial. For any integer n > 1, n factorial is written as n! and is the product of all integers from 1 through n. Also, by definition, 0! = 1! = 1
+		ex:
+			2! = 2 x 1 = 2
+			3! = 3 x 2 x 1 = 6
+			4! = 4 x 3 x 2 x 1 = 24
+
+		Two other useful equations for working with factorials are n! = (n - 1)!(n) and (n + 1)! = (n!)(n + 1).
 		
+		D. Any sequential ordering of a set's elements is a permutation of the set. A permutation is a way to choose elements one by one in a certain order.
+		The factorial is useful for finding how many permutations a set has. If a set of n objects is being ordered from 1st to nth, there are n choices for the 1st object, n - 1 choices left for the 2nd object, n - 2 choices left for the 3rd object, and so on, until only 1 choice is left for the nth object. So, by the mulitplication principle, a set of n objects has n(n - 1)(n - 2) . . . (3)(2)(1) = n! permutations
+		ex: The set of letters A, B, and C has 3! = 6 permutations: ABC, ACB, BAC, BCA, CAB, and CBA.
+		
+		E. When 0 <_ k <_ n, each possible choice of k objects out of n objects is a combination of n objects taken k at a time. The number of these combinations is written as
+			( n )
+			(   )
+			( k )
+	
+		This is also the number of k-element subsets of a set with n elements, since the combinations simply are these subsets. It can be calculated as 
+			( n )         n!		  ( n )   (   n   )
+			(   ) = -------------   Note that (   ) = (       )
+			( k )    k! (n! - k!)		  ( k )   ( n - k )
+		ex: The 2-element subsets of S  = {A, B, C, D, E} are the combinations of the 5 letters in S taken 2 at a time. There are (5 / 2) = 5! / 2!3! = 120/(2)(6) = 10
