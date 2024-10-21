@@ -734,3 +734,50 @@ Full Quantitative Study
 		And C is a subset of A U C, so P(A or C) >= P(C) = 0.85.
 
 		Thus, we've found that 0.85 <= P(A or C) <= 1 and that 0.08 <= P(A and C) <= 0.23.
+
+	Estimation
+		A. Calculating exact answers to complext math questions is ovten too hard or too slow. Estimating the asnwers by simplifying the questions may be easier and faster.
+		One way to estimate is to round the numbers in theoriginal question: replace each number with a nearby number that has fewer digit. Often a number is rounded to a nearby multiple of some power of 10.
+		For any integer n and real number m, you can round m down to a multiple of 10^n by deleting all of m's digits to the right of the digit that stands for mulitples of 10^n.
+		
+		To round m up to a multiple of 10^n, first add 10^n to m, then round the result down.
+
+		To round m to the nearest 10^n, first find the digit in m that stands for a multiple of 10^n-1 If this digit is 5 or higher, round m up to a multiple of 10^n. Otherwise, round m down to a multiple of 10^n.
+
+		B. Rounding can simplify complex arithmetical calculation and give rough answers. If you keep more digits of the original numbers, the answers are usually more exact, but the calculations take longer.
+								(298.534 + 58.296)
+		ex: You can roughly estimate the value of  ----------------------------
+							    1.4822 + 0.937 + 0.014679
+		by rounding the numbers in the dividend to the nearest 10 and the numbers in the divisor to the nearest 0.1:
+		     (298.534 + 58.296)	          300 + 60        360
+		--------------------------- ~~ --------------- = ----- = 150
+		 1.4822 _ 0.937 + 0.014679      1.5 + 0.9 + 0 	  2.4
+
+		C. Sometimes it is easier to estimate by rounding to a multiple of a number other than 10, like the nearest square or cube of an integer.
+		ex:					  2447.16
+		i. You can roughly estimate the value of --------- 
+							   11.9
+
+		that both the dividend and the divisor are near multiples of 12: 
+				 2447.16      2448
+		2448 and 12. So --------- ~~ ------ = 204
+				   11.9	       12
+								     8.96
+		ii. You can roughly estimate the value of sqrt(---------------) by noting the first that each
+								24.82 * 4.057
+		    decimal number in the expression is near the square of and integer: 9.96 ~~ 9 = 3², 24.82 ~~ 25 = 5², and 4.057 ~~ 4 = 2². So
+		          8.96 			  3²		  3²	   3
+		sqrt(---------------) ~~ sqrt(---------) = sqrt(-----) = ----
+		      24.82 * 4.057	       5² * 2²           10²	  10
+
+		D. Sometimes finding a range of possible values for an expression is more useful than finding a single estimated value. The range's upper bound is the smallest number found to be greater than (or greater than or equal to) the expression's value. The range's lower bound is the largest number found to be less than (or less than or equal to) the expression's value.
+					 2.32² - 2.546	
+		ex: In the equation x = --------------- , each decimal is greater than 2 and less than 3.
+				         2.68² + 2.79
+		     2² - 3	    3² - 2
+		So, -------- < x < --------.
+		     3² + 3	    2² + 2
+									      1         7
+		Simplifying these fractions, we find that x is in the range ---- < x < ---.
+									     12         6
+		The range's lower bound is 1/12, and the upper bound is 7/6.
