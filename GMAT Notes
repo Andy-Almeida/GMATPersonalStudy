@@ -781,3 +781,23 @@ Full Quantitative Study
 		Simplifying these fractions, we find that x is in the range ---- < x < ---.
 									     12         6
 		The range's lower bound is 1/12, and the upper bound is 7/6.
+
+	Sequences and Series
+		A. A sequence is an algebraic function whose domain includes only positive integers. A function a(n) that is a sequence can be written as an. The domain of an infinite sequence is the set of all positive integers. For any positive integer n, the domain of a finite sequence of length n is the set of the first n positive integers.
+		ex:
+		i. The functions a(n) = n² + (n/5) is an infiinite sequence asubn whose domain is the set of all positive integers n = 1,2,3, . . . Its value at n = 3 is asub3 = 3² + 3/5 = 9.6
+
+		ii. The saem function a(n) = n² + (n/5) restricted to the domain {1,2,3} is a finite sequence of length 3 whose range is {1.2, 4.4, 9.6}.
+
+		iii. An infinite sequence like bsubn = (-1)^n(n!) can be written out by listing its values in the order b1, b2, b3, ..., bn, ...: that is -1, 2, -6, ..., (-1)^n(n!), ...
+		The value (-1)^n(n!) is the nth term of the sequence.
+
+		B. A series is the sum of a sequence's terms.
+		For an infinite sequence a(n), the infinite series
+		  k	
+		  E a(n) is the sum of the sequence's infintely many terms, a1 + a2 + a3 + ...
+		i = 1
+		The sum of the first k terms of sequence asubn is called a partial sum. It is written as 
+	 	k
+		E asubi, or a1 + ... + ak
+	       i=1
