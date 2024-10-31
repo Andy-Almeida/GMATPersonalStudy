@@ -830,3 +830,55 @@ Verbal Review
 	ex: Julia just hiked fifteen kilometers, so she must have burned a lot of calories. Surely, she's hungry now.
 	
 	This argument has a premise, an intermediate conclusion, and a main conclusion. The word so marks the intermediate conclusion, that Julia must have burned a lot of calories. The word surely marks the main conclusion: that Julia is hungry now. The premise that Julia just hiked fifteen kilometers is used to support the intermediate conclusion, which in turn is used to support the main conclusion.
+
+	Conclusions may be state before, between, or after premises. Sometimes no marker words mark which statements are premises, and which are conclusions. To find premises and conclusions without marker words, consider which statements the author gives as reasons to accept which other statements. The reasons given are the premises. The ideas the author tries to persuade readers to accept are the conclusions.
+
+	ex: For healthy eating, Healthful Brand Donuts are the best donuts you can buy. Unlike any other donuts on the market, Healthful Brand Donuts have plenty of fiber and natural ingredients.
+
+	In this argument, the author tries to persuade the reader that Healthful Brand Donuts are the best donuts to buy for healthy eating. So, the first sentence is the conclusion. the statement about Healthful Brand Donuts' ingredients is a premise because it's given as a reason to accept the conclusion. since the author's intent is clear, no marker words are needed. 
+
+Verbal Review (Short and Sweet)
+	Arguments
+		A. Argument - gives one or more ideas as reasons to accept one or more other ideas. Could be implied
+		   Argument = {Premise}{Conclusion}
+
+		B. Premise - an idea that an argument gives as a reason to accept another idea
+			Words or Phrases:
+			after all		for one thing			moreover
+			because			furthermore			seeing that
+			for			given that			since
+			for the reason that	in light of the fact that	whereas
+
+		C. Conclusion - an idea an arugment supports with one or more premises.
+		   Intermediate Conclusion - a conclusion uses to support another conclusion.
+		   Main Conclusion - a conclusion the argument doesn't use to support any other conclusion.
+			Word or Phrases:
+			clearly		it follows that		suggests that
+			entails that	proves			surely
+			hence		shows that 		therefore
+			implies that	so			thus
+		   Arguments can be in any format, May not include marker words
+		   Argument = {Conclusion}{Premise}
+		   Reason given are the premises
+		   The ideas the author tries to pursuade readers to accept are the conclusions.
+
+		D. Valid Argument - one whose conclusions follow from its premises
+		   		  - can have false premises and conclusions
+		   Sound Argument - a valid argument with true premises.
+				  - with a premises being true, and its conclusion following the premises, the conclusions must also be true
+		E. Assumption - an idea taken for granted.
+		  	      - may be a premise in an argument
+			      - a claim about a cause or effect in a casual explanation
+			      - a condition a plan relies on
+		 	      - a conclusion is never an assumption
+		   Implicit Assumptions - ideas the autho considers too obvious to state.
+		F. Necessary Assumption - an idea that must be true for the argument's stated premises to be good enough reasons to accept its conclusions.
+
+		G. Sufficient Assumption - an idea whose truth would make the argument's main conclusion follow from the stated premises
+
+		H. Argument classifications
+			i.   Prescriptive Argument - supports a conclusion about what should ro shouldn't be done.
+			ii.  Evaluative Argument - supports a conclusion that somethign is good or bad, desireable or undesirable, without advocating any particular policy or actions.
+			iii. Interpretive Agrument - supports a conclusion about something's underlying significance.
+			iv.  Casual Argument - supports a conclusion that one or more factors did or did not contribute to one or more effects.
+			v.   Factual Argument - doesnt fit in any other category - All dogs are mammals. Rover is a dog. Therefore, Rover is a mammal.
