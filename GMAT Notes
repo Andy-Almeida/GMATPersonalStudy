@@ -958,3 +958,51 @@ Verbal Review (Short and Sweet)
 			ex: Biologists carefully caught, weighed, and released fifty frogs out of the hundreds in a local lake. These fifty frogs weighed an average of 32.86 grams apiece. So, the frogs in the lake must also weigh an average of 32.86 grams apiece.
 			
 			   In this example, the sample might be biased because frogs of certain types might have been easier for the biologists to catch. But even if the biologists avoided any sampling bias, the average weight of the fifty sampled frogs probably wouldn't exactly match the average weight of the hundreds of frogs in the lake. The conclusion is too precise, and the argument suffers from the fallacy of specificity. A stronger argument might use the same evidence to conclude less precisely that frogs in the lake weigh on average between 25 and 40 grams apiece. This less precise conclusion would still be true even if the average weight of the sampled frogs didn't exactly match the average weight of all the frogs in the lake. 
+
+	Casual Reasoning
+		A. Casual arguments use premises about correlations or casual links to support conclusions about causes and effects
+		   Saying one type of situation casually contributes to another usually implies that after a situation of the first type, situations of the second type are more likely.
+		   It also implies that situations of the first type help to reasonably explain situations of the second type
+			ex: Bushes of the species in our yard tend to die after several weeks without water. So, they must need water at least every few weeks to survive.
+			
+			In this example, the premise is that after situations of one type (bushes of a certain species getting no water for several weeks), situations of another type become more likely (the bushes dying). The conclusion is basically that the first type of situation causes the second: getting no water for several weeks causes bushes of that species to die.
+
+		B. Casual argument may use a general correlation to support the conclusion that a situation of one type caused a situation of another type
+			ex: A bush in our yard just died. There's been no rain this summer, and no one has been watering the yard. Bushes of the species in our yard tend to die after several weeks without water. So, probably the bush died because it didn't get enough water 
+
+		C. Casual arguments can be weakened by observations that suggest alternative casual explanations. A way to check which of the two competing explanations is stringer is to look at situations that include the possible cause from one explanation but not the possible cause from the other.
+			ex:
+			  	explanation 1: Bushes of this species tend to die after several weeks without water. Maybe the lack of water kills the bushes.
+				explanation 2: Bushes of this species grow only in a region where long dry spells are always very hot. Maybe the heat alone kills these bushes during weeks without water.
+			
+				To check which of these hypothetical is stronger, we can run two experiments.
+				experiment 1: water some of the bushes often during weeks of extreme heat and see how well they survive
+				experiment 2: keep some of the bushes dry in cooler weather and see how well they survive
+
+				Bushes survive in experiments 1 but not experiments 2 would support explanation 1 and cast doubt on explanation 2 
+				Bushes survive in experiments 2 but not experiments 1 would support explanation 2 and cast doubt on explanation 
+				Bushes always die in bot experiments would support both explanations, suggesting either heat or drought alone can kill the bushes
+				Bushes survive well in both experiments would cast doubt on bot explanations. It would suggest that something other than drought or heat is killing the bushes - or that drought and heat must occur together to kill the bushes
+
+		D. Experiments to test casual hypotheses shouldn't add or remove possible causal factors other than those tested for.
+			ex:
+			i. To run experiment 1 above, a scientist planted some of the bushes in a tropical rainforest where very hot days are usually rainy.
+			ii. To run experiment 2 above, a scientist planted some of the bushes under an awning where rain couldn't reach them in cooler weather.
+			
+			These versions of the two experiments are problematic because they add other possible causal factors. In exmaple (i), the rainforest's soil type, insects, or humidity might make it ahrder or easier for the bushes to survive, regardless of the heat and rainfall. In example (ii), putting the bushes under an awning would likely helkp keep them shaded. That too might make it easier or harder for the bushes to survive, regardless of the heat and rainfall. These experimental design flaws cast doubt on any argument that cites these versions of the experiments as evidfence to support Explanation 1 or Explanation 2.
+
+		E. Even when two factors clearly are causually linked, it can be hard to tell which causes which, or whether a third, underlying factor causes them both
+			ex: One type of earthworm is far more often found in soil under healthy bushes of a certain species tha tin soil under sickly bushes of that same species
+			    Even if the earthworms' presence is causally linked ot the bushes' health, the causal link could be that:
+				i. the earthworms improve the bushes' health, or
+				ii. healthier bushes attract the earthworms, or
+				iii. certain soil conditions both miprove the bushes' health and attract the earthworms
+			   More than one of the causal links, and others, mayu hold at once. A way to untangle the causal links is to find out:
+				i. how healthy the bushes are in the same soild oncidtions without earthworms;
+				ii. how attracted the earthworms are to those soil conditions without the bushes; and
+				iii. whether the earthworms tend to appear around healthier bushes even in different soil conditions.
+
+		F. Even relaiable correlations sometimes arise just by chance. One way to check whether a correlation between two types of situations is just a coincidence is to test whether stopping situations of the first type also stops situations of the other type. Even when no test is possible, you can consider whether there's any plausible way either type of situation could cause the other.
+			ex: For years, Juan has arrived at work at a hair salon every weekday at exactly 8 a.m. Five hundred miles to the north, over the same years, Ashley has arrived at work at a car dealership every weekday at exactly 8:01 a.m. So, Juan's daily arrival at his work must make Ashley arrive at her work a minute late.
+			
+	In this example, even though for years Ashley has always arrived at work a minute after Juan has, the argument is absurdly weak. That's because Juan's arrival at his work has no apparent way to affect when Ashley arrives at her work. But we could still test the hypothesis in the argument's conclusion. For example, we could persuade Juan to vary his arrival times, then see whether Ashley's arrival times change to mathc. With no plausible link between the two workers' arrival times, we'd need a lot of evidence like this to reasonably overcome the suspicion that the correlation is pure coincidence. However, finding out that Juan and Ashley know each other and have reasons to coordinate their work schedules could give use a plausible causeal link between their arrivale times. That would greatly strengthen the argument that their arrival times are indeed casually linked. 
