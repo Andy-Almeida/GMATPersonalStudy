@@ -933,3 +933,28 @@ Verbal Review (Short and Sweet)
 
 		B. An inductive argument may be strengthened by adding reasons that directly support the conclusion or reasons that help the argument's premises better support the conclusion
 		   An inductive argument may be weakend by adding reasons that directly cast doubt on the argument's conclusion, or that make the argument's premises less effective at supporting the conclusion
+
+	Generalizations and Predictions
+		A. Argument by Generalization - uses premises about a sample of a population to support a conclusion about the whole population	
+			ex: Six of the eight apartments available for lease in this building are studio apartments.
+			    So, probably about 3/4 of all the apartments in the building are studio apartments
+
+		B. Related Argument by Generalization - uses premises about a whole population to support a conclusion about part of that population
+			ex: About 3/4 of all the apartments in the building are studio apartments.
+			    So, probably about 3/4 of the apartments on the building's second floor are studio apartments.
+
+		C. Predictive argument by generalization - uses a remise about the sample observed so far in a population to support a conclusion about another part of the population
+			ex: Of the eight apartments I've visted in this building so far, six have been studio apartments.
+			    So, probably about six out of the necxt eight apartments I visit in the building will also be studio apartments.
+	
+		D. The strength of an argument by generalization partly depends on how similar the sample is to the overall population, or to the unobserved part of the population a prediction is about. A sample chosen in a way likely to make it relevantly different thant that of the population is a bisaed sample. An argument using a bised sample is flawed. 
+			ex: In a telephone survey of our city's residents, about four out of every five respondents said they usually answer the phone when it rings.
+			    So, about four out of every five residents of our city usually answers the phone when it rings
+
+		E. The strength of an argument generalizing from a sample also partly depends on the sample's size. The smaller the sample, the weaker the argument. This is because a smaller sample is statistivally likely to differ more from the populations' average traits. An argument by generalization that uses too small a sample to justify its conclusion is flawed by hasty generalization.
+			ex: A coin came up heads five of the eight times Beth flipped it. This suggessts the coin she flipped is weighted to make it come up heads mroe often than tails.
+
+		F. An argument by generalization is weaker when its conclusion is more precise, and stronger when it its conclusion is vaguer, given the same premises. That's because a sample usually doesn't precisely match the population it's extracted from. A more precises conclusion allowing a smaller range of potential mismatches between sample and population is less likely to be true, given the same evidence. An argument whose conclusion is too precise for its premises to justify is flawed by the fallacy of specificity
+			ex: Biologists carefully caught, weighed, and released fifty frogs out of the hundreds in a local lake. These fifty frogs weighed an average of 32.86 grams apiece. So, the frogs in the lake must also weigh an average of 32.86 grams apiece.
+			
+			   In this example, the sample might be biased because frogs of certain types might have been easier for the biologists to catch. But even if the biologists avoided any sampling bias, the average weight of the fifty sampled frogs probably wouldn't exactly match the average weight of the hundreds of frogs in the lake. The conclusion is too precise, and the argument suffers from the fallacy of specificity. A stronger argument might use the same evidence to conclude less precisely that frogs in the lake weigh on average between 25 and 40 grams apiece. This less precise conclusion would still be true even if the average weight of the sampled frogs didn't exactly match the average weight of all the frogs in the lake. 
